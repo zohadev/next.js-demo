@@ -13,6 +13,7 @@
 }
 
 .footer {
+  background-color: #0070f3;
   display: flex;
   flex: 1;
   padding: 2rem 0;
